@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align=center>
+<a href="https://velog.io/@hhyebb"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/hyebin-kang-75a311245/)](https://www.linkedin.com/in/hyebin-kang-75a311245/)
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeb&show_icons=true&theme=radical)
 <!--
 **hyeb/hyeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
