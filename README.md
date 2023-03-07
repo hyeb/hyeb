@@ -2,15 +2,16 @@
 - 🌱 I’m currently learning Machine Learning, AI, Natural Language Processing.
  
 <a href="https://velog.io/@hhyebb"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyebin-kang-75a311245/)](https://www.linkedin.com/in/hyebin-kang-75a311245/)
 <a href="https://hazel-hyacinth-f9a.notion.site/baceb7a2fd32488aaf88eda8aada00c1" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyebin-kang-75a311245/)](https://www.linkedin.com/in/hyebin-kang-75a311245/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyebb05512@gmail.com)](mailto:hyebb05512@gmail.com)
  
 ✏ Stack   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/mysql-F7931A?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/R-02458D?style=for-the-badge&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
