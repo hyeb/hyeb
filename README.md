@@ -1,8 +1,8 @@
 ### Hi there 👋
 - Interested in AI or AI business
+  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyebin-kang-75a311245/)](https://www.linkedin.com/in/hyebin-kang-75a311245/)
 
-✏ Stack   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
               
