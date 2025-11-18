@@ -1,10 +1,6 @@
-### Hi there 👋
-- Interested in AI or AI business
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hyebin-kang-75a311245/)](https://www.linkedin.com/in/hyebin-kang-75a311245/)
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-              
+Hi👋
+Interested in AI and business with AI
+
 <!--
 **hyeb/hyeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
